@@ -6,3 +6,12 @@ https://undraw.co/illustrations
 
 Biblioteca Ilustraçoes
 https://avataaars.com/
+
+Biblioteca Icones
+
+https://www.flaticon.com/br/
+
+https://feathericons.com/
+
+
+
