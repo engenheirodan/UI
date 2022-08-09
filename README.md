@@ -14,4 +14,8 @@ https://www.flaticon.com/br/
 https://feathericons.com/
 
 
+Paleta de Cores
+
+https://colorhunt.co/
+
 
