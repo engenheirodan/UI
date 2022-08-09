@@ -18,4 +18,4 @@ Paleta de Cores
 
 https://colorhunt.co/
 
-
+https://color.adobe.com/pt/create
