@@ -27,3 +27,7 @@ https://fonts.google.com/
 
 https://fonts.adobe.com/
 
+Contrast das cores
+
+https://contrast-ratio.com/
+
